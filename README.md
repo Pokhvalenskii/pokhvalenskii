@@ -1,15 +1,10 @@
-### Hi there 👋
+### Привет, я Никита, и я веб-разработчик 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Сейчас я изучаю веб-разработку и веб-дизайн.
+- 👯 Я хочу сотрудничать с другими создателями контента
+- ⚡ На зиму у меня есть дрифт корч, а на лето у меня есть фикс байк.
 
-### media:
+### Follow for updates:
 
 [<img align="left" alt="my vk" width="22px" src="https://image.flaticon.com/icons/png/512/49/49444.png" />][vk]
 [<img align="left" alt="my instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -29,6 +24,14 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Ps" width="26px" src="https://image.flaticon.com/icons/png/512/121/121140.png" />
+<img align="left" alt="Ai" width="26px" src="https://image.flaticon.com/icons/png/512/121/121135.png" />
+<img align="left" alt="figma" width="26px" src="https://hackr.io/tutorials/learn-figma/logo/logo-figma?ver=1587723450" />
+
+
+
+
+
 
 
 [instagram]: https://www.instagram.com/pokhvalenskii
