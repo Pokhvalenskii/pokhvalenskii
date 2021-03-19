@@ -9,4 +9,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Connect with me:
+
+[<img align="left" alt="my vk" width="22px" src="https://api.icons8.com/download/d95d5282bf34ebdda41c6dcc9fc0b70b229a7d48/Color/PNG/512/Social_Networks/vk_com-512.png" />][vk]
+[<img align="left" alt="my instagram" width="22px" src="https://e7.pngegg.com/pngimages/5/164/png-clipart-instagram-icon-thepix-digital-marketing-logo-shiftdelete-instagram-logo-miscellaneous-rectangle.png" />][instagram]
+
+
+
 
