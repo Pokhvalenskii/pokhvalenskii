@@ -28,7 +28,7 @@
 <img align="left" alt="Ai" width="26px" src="https://image.flaticon.com/icons/png/512/121/121135.png" />
 <img align="left" alt="figma" width="26px" src="https://hackr.io/tutorials/learn-figma/logo/logo-figma?ver=1587723450" />
 <img align="left" alt="Postman" width="26px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://citywebconsultants.co.uk/sites/default/files/inline-images/mongo-medium.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img1.freepng.ru/20181124/ar/kisspng-mongodb-document-oriented-database-dashboard-nosql-distribooted-install-mongodb-with-1-click-5bfa27c4a54528.934878811543120836677.jpg" />
 
 
 
