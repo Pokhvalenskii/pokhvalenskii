@@ -28,6 +28,10 @@
 <img align="left" alt="Ai" width="26px" src="https://image.flaticon.com/icons/png/512/121/121135.png" />
 <img align="left" alt="figma" width="26px" src="https://hackr.io/tutorials/learn-figma/logo/logo-figma?ver=1587723450" />
 <img align="left" alt="Postman" width="26px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg
+" />
+
+
 
 
 [instagram]: https://www.instagram.com/pokhvalenskii
